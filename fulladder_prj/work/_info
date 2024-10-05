@@ -1,0 +1,73 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/USER/Desktop/skriped/verilog/nandgate_prj
+vconcatention_ex
+Z0 !s110 1728114312
+!i10b 1
+!s100 Xb57PhAb30moQS5mHN21D1
+IdHa6fRcbf9>oCfK@l`?U32
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/USER/Desktop/skriped/verilog/fulladder_prj
+w1728114144
+8C:/Users/USER/Desktop/skriped/verilog/fulladder_prj/concatenation_ex.v
+FC:/Users/USER/Desktop/skriped/verilog/fulladder_prj/concatenation_ex.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1728114312.000000
+!s107 C:/Users/USER/Desktop/skriped/verilog/fulladder_prj/concatenation_ex.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/USER/Desktop/skriped/verilog/fulladder_prj/concatenation_ex.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vfull_adder
+R0
+!i10b 1
+!s100 Tm@Ggkb?]cJmz_2mgkEoO2
+IJ4mlEOnF9H04QZM@obbK]1
+R1
+R2
+w1728114218
+8C:/Users/USER/Desktop/skriped/verilog/fulladder_prj/full_adder.v
+FC:/Users/USER/Desktop/skriped/verilog/fulladder_prj/full_adder.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/USER/Desktop/skriped/verilog/fulladder_prj/full_adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/USER/Desktop/skriped/verilog/fulladder_prj/full_adder.v|
+!i113 1
+R5
+R6
+vfull_adder_multibit
+R0
+!i10b 1
+!s100 _;VJ?@PShcXG214Q;`b:X2
+Iz9AP4XE8i05PjoZKMYmZ02
+R1
+R2
+w1728114309
+8C:/Users/USER/Desktop/skriped/verilog/fulladder_prj/full_adder.multibitl.v
+FC:/Users/USER/Desktop/skriped/verilog/fulladder_prj/full_adder.multibitl.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/USER/Desktop/skriped/verilog/fulladder_prj/full_adder.multibitl.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/USER/Desktop/skriped/verilog/fulladder_prj/full_adder.multibitl.v|
+!i113 1
+R5
+R6

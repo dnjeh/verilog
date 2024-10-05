@@ -1,0 +1,15 @@
+C:/Users/USER/Desktop/skriped/verilog/nandgate_prj/nand_gate.v {1 {vlog -work work -stats=none C:/Users/USER/Desktop/skriped/verilog/nandgate_prj/nand_gate.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module nand_gate
+
+Top level modules:
+	nand_gate
+
+} {} {}} C:/Users/USER/Desktop/skriped/verilog/nandgate_prj/TB_nand_gate.v {1 {vlog -work work -stats=none C:/Users/USER/Desktop/skriped/verilog/nandgate_prj/TB_nand_gate.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module TB_nand_gate
+
+Top level modules:
+	TB_nand_gate
+
+} {} {}}
